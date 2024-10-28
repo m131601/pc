@@ -17,7 +17,17 @@ header, footer {
     padding: 1rem;
     position: relative;
 }
+body {
+    margin: 0;
+    padding-bottom: 50px; /* Ensure content doesn't overlap footer */
+}
 
+@media (max-width: 768px) {
+    footer {
+        font-size: 14px;
+        padding: 8px 0;
+    }
+}
 
 body {
     font-family: Arial, sans-serif;
