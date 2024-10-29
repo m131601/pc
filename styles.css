@@ -141,7 +141,20 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
 }
+    nav.open {
+        transform: translateX(0);
+    }
 
+    .hamburger {
+        position: absolute;
+        top: 15px;
+        right: 20px;
+        font-size: 30px;
+        background: none;
+        border: none;
+        color: white;
+    }
+}
 header nav ul li {
     width: 100%;
     text-align: center;
