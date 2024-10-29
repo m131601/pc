@@ -1,9 +1,4 @@
-function toggleMenu() {
-    const navbar = document.querySelector('.navbar');
-    navbar.style.display = navbar.style.display === 'flex' ? 'none' : 'flex';
-}
-
-function toggleMenu() {
-    const navbar = document.querySelector('.navbar');
-    navbar.classList.toggle('open');
-}
+document.querySelector('.hamburger').addEventListener('click', function() {
+    const navList = document.querySelector('.nav-list');
+    navList.classList.toggle('active'); // Toggles the visibility
+});
