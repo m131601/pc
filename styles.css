@@ -142,7 +142,10 @@ body {
     background-color: #f4f4f4;
 }
 
-
+header nav ul li {
+    width: 100%;
+    text-align: center;
+}
 
 nav ul {
     display: flex;
