@@ -37,7 +37,7 @@ body {
 }
 #hero {
     height: 100vh; /* Full screen height */
-    background-image: url('rs=w_984\,h_657.webp'); /* Replace with your image */
+    background-image: url('kitchen-1940174_1280.jpg'); /* Replace with your image */
     background-size: cover; /* Ensure the image covers the entire section */
     background-position: center;
     background-repeat: no-repeat;
@@ -364,7 +364,7 @@ header {
 
 /* Hero Section */
 .hero {
-    background-image: url('your-hero-image.jpg');
+    background-image: url('kitchen-1940174_1280.jpg');
     background-size: cover;
     height: 80vh;
     display: flex;
