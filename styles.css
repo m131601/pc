@@ -120,6 +120,13 @@ nav a {
     color: white;
     text-decoration: none;
 }
+.hamburger {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
 
 section {
     padding: 2rem;
