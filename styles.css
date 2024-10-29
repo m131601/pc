@@ -21,7 +21,7 @@ header, footer {
 }
 body {
     margin: 0;
-    padding-bottom: 50px; /* Ensure content doesn't overlap footer */
+    padding-bottom: 0px; /* Ensure content doesn't overlap footer */
 }
 
 @media (max-width: 768px) {
