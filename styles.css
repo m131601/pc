@@ -95,15 +95,7 @@ header {
     justify-content: space-between;
     align-items: center;
 }
-.navbar {
-    display: none;
-    position: absolute;
-    top: 70px;
-    left: 0;
-    width: 100%;
-    background-color: #1c4d54;
-    text-align: center;
-}
+
 
 nav ul {
  padding: 0;
