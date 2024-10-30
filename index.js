@@ -1,4 +1,4 @@
-document.querySelector('.hamburger').addEventListener('click', function() {
-    const navList = document.querySelector('.nav-list');
-    navList.classList.toggle('active'); // Toggles the visibility
+document.querySelector('.hamburger').addEventListener('click', function () {
+    document.querySelector('.nav-list').classList.toggle('active');
 });
+
